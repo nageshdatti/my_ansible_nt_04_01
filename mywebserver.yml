@@ -15,4 +15,3 @@
     apt:
       name: webserver
       state: present
-      
