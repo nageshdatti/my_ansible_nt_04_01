@@ -14,5 +14,5 @@
   - name: i want to install webserver
     apt:
       name: webserver
-      state: present    
+      state: present
       
